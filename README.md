@@ -6,13 +6,13 @@ A curated list of awesome CSS resources
 - [Guides](#guides)
 - [Frameworks](#frameworks)
 - [Preprocessors](#preprocessors)
-- [Youtube Channels](#channels)
+- [Youtube Channels](#youtube-channels)
 - [Layout modes](#layout-modes)
-- [CSS Style guides and Guidelines](#guidelines)
+- [CSS Style guides and Guidelines](#css-style-guides-and-guidelines)
 - [Misc](#misc)
 - [Books](#books)
 - [Interactive](#interactive)
-- [Refferences](#refferences)
+- [Refferences](#references)
 
 ## Complementary resources
 
